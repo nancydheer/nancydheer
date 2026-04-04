@@ -1,10 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Nancy%20Dheer&fontSize=60&fontAlignY=38&desc=MSc%20Economics%20%26%20Management%20%7C%20Business%20Analytics%20Enthusiast&descAlignY=58&descSize=16&fontColor=ffffff&animation=fadeIn" width="100%"/>
-
-</div>
-
-<div align="center">
+# 👋 Hi, I'm Nancy Dheer
+### MSc Economics & Management | Business Analytics Enthusiast
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7941D&center=true&vCenter=true&width=600&lines=Finance+%26+Business+Analytics+Enthusiast+📊;Turning+Data+into+Decisions+🚀;Marketing+%7C+Strategy+%7C+Consulting+💼;Always+Learning%2C+Always+Growing+🌱)](https://git.io/typing-svg)
 
