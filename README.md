@@ -16,7 +16,7 @@ Name       : Nancy Dheer
 Education  : MSc Economics & Management
 Role       : Marketing Intern @ Connect Karo
 Location   : India 🇮🇳
-Interests  : HR Analytics | Business Strategy | Consulting
+Interests  : Finance Analytics | Business Strategy | Consulting
 Strengths  : Communication | Problem-Solving | People Management
 Quote      : "Driven by curiosity, powered by data, and focused on impact."
 ```
@@ -32,15 +32,16 @@ Quote      : "Driven by curiosity, powered by data, and focused on impact."
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🎨 Design & Presentation
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 
 ### 💡 Domains
-![HR Analytics](https://img.shields.io/badge/HR%20Analytics-FF6B6B?style=for-the-badge&logoColor=white)
+![Financial Analytics](https://img.shields.io/badge/HR%20Analytics-FF6B6B?style=for-the-badge&logoColor=white)
 ![Business Strategy](https://img.shields.io/badge/Business%20Strategy-4ECDC4?style=for-the-badge&logoColor=white)
-![Financial Modelling](https://img.shields.io/badge/Financial%20Modelling-45B7D1?style=for-the-badge&logoColor=white)
+![Strategy consulting](https://img.shields.io/badge/Financial%20Modelling-45B7D1?style=for-the-badge&logoColor=white)
 ![Market Research](https://img.shields.io/badge/Market%20Research-96CEB4?style=for-the-badge&logoColor=white)
 
 </div>
