@@ -39,7 +39,7 @@ Quote      : "Driven by curiosity, powered by data, and focused on impact."
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 
 ### 💡 Domains
-![Finance Analytics](https://img.shields.io/badge/Finance%20Analytics-FF6B6B?style=for-the-badge&logoColor=white)
+![Financial Analytics](https://img.shields.io/badge/Finance%20Analytics-FF6B6B?style=for-the-badge&logoColor=white)
 ![Business Strategy](https://img.shields.io/badge/Business%20Strategy-4ECDC4?style=for-the-badge&logoColor=white)
 ![Strategy Consulting](https://img.shields.io/badge/Strategy%20Consulting-45B7D1?style=for-the-badge&logoColor=white)
 ![Market Research](https://img.shields.io/badge/Market%20Research-96CEB4?style=for-the-badge&logoColor=white)
