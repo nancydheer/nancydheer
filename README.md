@@ -19,12 +19,12 @@
 <table>
 <tr>
 <td width="35%" valign="middle">
-<div align="right">
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/Developer.gif" width="450"/>
-</div>
-<br>
-```
-I am an **M.Sc. Economics & Management** student with a strong interest in **business analytics, financial analysis, strategy consulting, and market research**. I have done Internship as a **Marketing Intern at Connect Karo**, I enjoy using data, research, and analytical tools to understand business problems and support better decision-making.
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%">
+</td>
+<td width="65%" valign="middle">
+
+```yaml
+I am an **M.Sc. Economics & Management** student with a strong interest in **business analytics, financial analysis, strategy consulting, and market research**. Currently working as a **Marketing Intern at Connect Karo**, I enjoy using data, research, and analytical tools to understand business problems and support better decision-making.
 
 I have hands-on experience with **Excel, Power BI, Python, SQL, and data visualization**, along with strong communication, problem-solving, and people-management skills. I am passionate about transforming complex information into clear insights, practical strategies, and measurable business impact.
 
@@ -121,16 +121,29 @@ Analysis of India's digital payment ecosystem — scalability, governance & fint
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=nancydheer&theme=algolia&no-frame=true&row=1&column=6"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nancydheer&theme=github-compact"/>
+## 📊 GitHub Analytics
 
-<br>
+<div align="center">
 
-<img src="https://streak-stats.demolab.com?user=nancydheer&theme=graywhite&hide_border=true&background=0f2027&stroke=2C5364&ring=2C5364&fire=2C5364&currStreakLabel=2C5364" width="60%" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nancydheer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nancydheer&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=nancydheer&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=nancydheer&theme=tokyo-night&hide_border=true"/>
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=nancydheer&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
+
 </div>
-<p align="center">
-<img src="https://raw.githubusercontent.com/nancydheer/nancydheer/output/github-contribution-grid-snake.svg">
-</p>
+</div>
+
 ---
 
 ## 🌐 Connect With Me
