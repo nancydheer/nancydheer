@@ -19,12 +19,9 @@
 <table>
 <tr>
 <td width="35%" valign="middle">
-<div align="center">
+<div align="right">
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/Developer.gif" width="450"/>
 </div>
-</td>
-<td width="65%" valign="middle">
-
 ```yaml
 I am an **M.Sc. Economics & Management** student with a strong interest in **business analytics, financial analysis, strategy consulting, and market research**. I have done Internship as a **Marketing Intern at Connect Karo**, I enjoy using data, research, and analytical tools to understand business problems and support better decision-making.
 
