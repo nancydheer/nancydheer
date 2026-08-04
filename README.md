@@ -22,7 +22,8 @@
 <div align="right">
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/Developer.gif" width="450"/>
 </div>
-```yaml
+<br>
+```
 I am an **M.Sc. Economics & Management** student with a strong interest in **business analytics, financial analysis, strategy consulting, and market research**. I have done Internship as a **Marketing Intern at Connect Karo**, I enjoy using data, research, and analytical tools to understand business problems and support better decision-making.
 
 I have hands-on experience with **Excel, Power BI, Python, SQL, and data visualization**, along with strong communication, problem-solving, and people-management skills. I am passionate about transforming complex information into clear insights, practical strategies, and measurable business impact.
