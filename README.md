@@ -19,31 +19,17 @@
 <table>
 <tr>
 <td width="35%" valign="middle">
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-Github/main/space.gif" width="100%"/>
+<div align="center">
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/Developer.gif" width="450"/>
+</div>
 </td>
 <td width="65%" valign="middle">
 
 ```yaml
-whoami:
-  name:      "Nancy Dheer"
-  education: "MSc Economics & Management"
-  role:      "Marketing Intern @ Connect Karo"
-  location:  "India"
+I am an **M.Sc. Economics & Management** student with a strong interest in **business analytics, financial analysis, strategy consulting, and market research**. I have done Internship as a **Marketing Intern at Connect Karo**, I enjoy using data, research, and analytical tools to understand business problems and support better decision-making.
 
-focus:
-  - Financial Analytics
-  - Business Strategy
-  - Strategy Consulting
-  - Market Research
+I have hands-on experience with **Excel, Power BI, Python, SQL, and data visualization**, along with strong communication, problem-solving, and people-management skills. I am passionate about transforming complex information into clear insights, practical strategies, and measurable business impact.
 
-strengths:
-  - Communication
-  - Problem-Solving
-  - People Management
-
-quote: >
-  "Driven by curiosity, powered by data,
-   and focused on impact."
 ```
 
 </td>
@@ -137,14 +123,16 @@ Analysis of India's digital payment ecosystem — scalability, governance & fint
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nancydheer&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0f2027&title_color=2C5364&icon_color=2C5364&text_color=c9d1d9" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nancydheer&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0f2027&title_color=2C5364&text_color=c9d1d9" width="38%" />
+<img src="https://github-profile-trophy.vercel.app/?username=nancydheer&theme=algolia&no-frame=true&row=1&column=6"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nancydheer&theme=github-compact"/>
 
 <br>
 
 <img src="https://streak-stats.demolab.com?user=nancydheer&theme=graywhite&hide_border=true&background=0f2027&stroke=2C5364&ring=2C5364&fire=2C5364&currStreakLabel=2C5364" width="60%" />
 </div>
-
+<p align="center">
+<img src="https://raw.githubusercontent.com/nancydheer/nancydheer/output/github-contribution-grid-snake.svg">
+</p>
 ---
 
 ## 🌐 Connect With Me
