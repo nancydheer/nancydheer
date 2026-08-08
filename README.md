@@ -23,7 +23,7 @@
 </td>
 <td width="65%" valign="middle">
 
-I am an M.Sc. Economics & Management student with a strong interest in business analytics, financial analysis, strategy consulting, and market research. Currently working as a Marketing Intern at Connect Karo, I enjoy using data, research, and analytical tools to understand business problems and support better decision-making.
+I am an M.Sc. Economics & Management student with a strong interest in HR analytics, financial analysis, strategy consulting, and market research. I have done internship as a Marketing Intern at Connect Karo, I enjoy using data, research, and analytical tools to understand business problems and support better decision-making.
 
 I have hands-on experience with Excel, Power BI, Python, SQL, and data visualization, along with strong communication, problem-solving, and people-management skills. I am passionate about transforming complex information into clear insights, practical strategies, and measurable business impact.
 
@@ -67,7 +67,6 @@ I have hands-on experience with Excel, Power BI, Python, SQL, and data visualiza
 <img src="https://img.shields.io/badge/Market_Research-0f2027?style=for-the-badge" height="30"/>
 
 </div>
----
 
 ## 💼 Featured Projects
 
@@ -123,9 +122,6 @@ Analysis of India's digital payment ecosystem — scalability, governance & fint
 ## 📊 GitHub Analytics
 
 <div align="center">
-## 📊 GitHub Analytics
-
-<div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nancydheer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
 
@@ -143,7 +139,6 @@ Analysis of India's digital payment ecosystem — scalability, governance & fint
 
 <img src="https://github-profile-trophy.vercel.app/?username=nancydheer&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
 
-</div>
 </div>
 
 ---
