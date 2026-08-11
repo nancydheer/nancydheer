@@ -123,10 +123,6 @@ Analysis of India's digital payment ecosystem — scalability, governance & fint
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nancydheer&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
 <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=nancydheer&theme=tokyonight&hide_border=true"/>
 
 <br><br>
