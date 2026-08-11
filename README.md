@@ -129,10 +129,6 @@ Analysis of India's digital payment ecosystem — scalability, governance & fint
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=nancydheer&theme=tokyo-night&hide_border=true"/>
 
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=nancydheer&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
-
 </div>
 
 ---
